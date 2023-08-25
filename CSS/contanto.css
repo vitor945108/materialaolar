@@ -1,0 +1,20 @@
+.bg-blue{
+    background-color: #00ffff!important;
+
+}
+.nav-link :hover{
+    background-color: red;
+}
+.card{
+   display: flex;
+}
+.btn{
+    background-color: green;}
+
+.btn-group{
+   position: ;
+}
+
+.img-fluid{
+    display: inline;
+}
